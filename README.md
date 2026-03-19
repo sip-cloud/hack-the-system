@@ -63,3 +63,7 @@ hts
 ---
 
 > For ethical and authorised use only.
+
+---
+
+*Maintained by Winston Churchill*
